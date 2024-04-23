@@ -896,6 +896,9 @@ RSVP form
         -webkit-border-radius: 6px;
         border-radius: 6px;
         border: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
       }
       select::-webkit-input-placeholder {
         color: $form-placeholder;
